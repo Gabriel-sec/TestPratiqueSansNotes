@@ -1,5 +1,10 @@
 Voici un commit sur un fichier
 ##Plus de texte
+
 Voici encore plus de texte
 Voici un peu plus de texte qu'on va merger avec la branch2 on va voir si il y a des conflit
 Texte branch1 !!
+
+Voici un peu plus de texte mais du navigateur
+Voici du texte mais relié a branche2. Aura t-il un problème ?
+
