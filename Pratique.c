@@ -13,5 +13,6 @@ int main() {
 
   // Close the file
   MyFile.close();
+  cout<<"Création autre probl. a partir du Desktop";
   return 0;
 }
